@@ -1,6 +1,6 @@
 {
-  "name": "Dev Token",
-  "symbol": "DEV",
-  "description": "Token developed for development purposes",
-  "image": "https://raw.githubusercontent.com/Devansh-Aage/SPL-token/refs/heads/main/preview.png"
+    "name":"HyperLocal Eats",
+    "symbol":"HE",
+    "description":"Currency to be used for transactions carried out on HyperLocal Eats Platform",
+    "image":"https://raw.githubusercontent.com/Devansh-Aage/SPL-token/refs/heads/main/Group%208%20(1).png"
 }
