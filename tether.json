@@ -1,0 +1,12 @@
+{
+  "name": "Tether",
+  "symbol": "THR",
+  "description": "Tether token used as a incentive for the users of Tether WebApp",
+  "image": "https://raw.githubusercontent.com/Devansh-Aage/SPL-token/refs/heads/main/THR.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Tether"
+    }
+  ]
+}
